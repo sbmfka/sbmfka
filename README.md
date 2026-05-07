@@ -1,16 +1,28 @@
-## Hi there 👋
+# Technical Profile: Shahad 
+## Cybersecurity Specialist and Software Engineer
 
-<!--
-**sbmfka/sbmfka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Professional Summary
+I am a student dedicated to securing critical infrastructure through offensive security and cloud software development. My current focus is a seven-month technical sprint to master industrial control systems and cloud architecture before transitioning into professional training.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certification Roadmap 2026
+| Credential | Status | Expected Completion |
+| :--- | :--- | :--- |
+| CEH v13 (AI Edition) | In-Progress | Month 2 |
+| AWS Certified Developer Associate | Planned | Month 4 |
+| GICSP (Industrial Security) | Planned | Month 7 |
+| OSCP (Offensive Security) | Long-term Goal | Training Period |
+
+---
+
+### Technical Skillset
+* **Offensive Security:** Network Pentesting, AI-driven Vulnerability Research, Kali Linux
+* **Software Development:** Python Automation, AWS Cloud Services, GitHub Actions
+* **Industrial Technology:** SCADA Systems, OT Security Protocols, PLC Defense
+
+---
+
+### Communication and Languages
+* **English:** Professional Fluency
+* **Arabic:** Native
