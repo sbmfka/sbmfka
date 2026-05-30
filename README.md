@@ -9,8 +9,8 @@ I am a student dedicated to securing critical infrastructure through offensive s
 ### Certification Roadmap 2026
 | Credential | Status | Expected Completion |
 | :--- | :--- | :--- |
-| CEH v13 (AI Edition) | In-Progress | Month 2 |
-| AWS Certified Developer Associate | Planned | Month 4 |
+|AWS Certified Developer Associate | In-Progress | Month 4 |
+|CEH v13 (AI Edition) | Planned | Month 2 |
 | GICSP (Industrial Security) | Planned | Month 7 |
 | OSCP (Offensive Security) | Long-term Goal | Training Period |
 
