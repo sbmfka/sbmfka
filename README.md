@@ -6,8 +6,8 @@
 
 ## Certifications & Education
 
-- **AWS Certified Solutions Architect – Associate** *(In Progress – Expected [9-2026])*
-- **AWS Certified Developer – Associate** *(In Progress – Expected [11-2026])*
+- **AWS Certified Solutions Architect – Associate** *(In Progress – Expected 9-2026)*
+- **AWS Certified Developer – Associate** *(In Progress – Expected 11-2026)*
 - **Diploma in Database and Web Development**  
   IAU — 2027
 
